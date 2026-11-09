@@ -16,7 +16,7 @@ import pathlib
 
 import modal
 
-HYPERFRAMES_VERSION = "0.7.41"
+HYPERFRAMES_VERSION = "0.9.26"
 HYPERFRAMES_NPM_PREFIX = "/opt/hyperframes-cli"
 HYPERFRAMES_BIN = f"{HYPERFRAMES_NPM_PREFIX}/node_modules/.bin/hyperframes"
 MINUTES = 60  # seconds
