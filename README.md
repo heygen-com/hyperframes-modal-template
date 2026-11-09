@@ -60,7 +60,7 @@ Validate before deploying:
 
 ```bash
 cd compositions/<name>
-npx hyperframes lint && npx hyperframes validate
+npx hyperframes check
 ```
 
 ## Costs & performance
